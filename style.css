@@ -1,0 +1,37 @@
+.box {
+    background-color: hsl(0, 0%, 100%);
+    width: 350px;
+    height: 550px;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 200px;
+  }
+  
+  body {
+    background-color: hsl(212, 45%, 89%);
+  }
+  
+  p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-family: "Outfit";
+  }
+  
+  h1 {
+    color: hsl(218, 44%, 22%);
+    font-family: "Outfit";
+  }
+  .box_two {
+    text-align: center;
+  }
+  
+  img {
+    width: 330px;
+    height: 350px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    border-radius: 15px;
+  }
+  
